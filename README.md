@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there!
 
 <!--
 **anantshri1/anantshri1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I am Anant, a theoretical physicist about to finish a PhD in Particle Physics, with a focus on string theory. Welcome to my GitHub page! 
+- 🔭 I’m currently wrapping up my PhD on three-dimensional mirror duality, which is, at its heart, a very interesting (read: weird) phenomenon in three spacetime dimensions that relates multiple field theories. Find my publications [here](https://inspirehep.net/authors/2931640).
+- 🌱 This started as a way to teach myself machine learning and deep learning. I have been enjoying it a lot, and my days now involve going to Kaggle and playing around with whichever dataset catches my interest. It's been fun, and I've learned a lot about the mathematics of these techniques.
+- 📫 How to reach me: [ashri@sissa.it](mailto:ashri@sissa.it), or, equivalently [bookreaderanant@gmail.com](mailto:bookreaderanant@gmail.com) (who amongst us has not made an email they don't regret).
