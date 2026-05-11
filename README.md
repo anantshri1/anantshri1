@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I am Anant, a theoretical physicist about to finish a PhD in Particle Physics, with a focus on string theory. Welcome to my GitHub page! 
+Hi, I am Anant, a theoretical physicist about to finish a PhD in Particle Physics, with a focus on low-dimensional quantum systems. Welcome to my GitHub page! 
 
 - 🔭 I’m currently wrapping up my PhD on *three-dimensional mirror duality*, which is, at its heart, a very interesting (read: weird) phenomenon in three spacetime dimensions that relates multiple field theories. 
 
@@ -23,6 +23,9 @@ My research focuses on classifying dual pairs in three-dimensional supersymmetri
 Find my publications [here](https://inspirehep.net/authors/2931640).
 
   
-- 🌱 This started as a way to teach myself machine learning and deep learning. I have been enjoying it a lot, and my days now involve going to Kaggle and playing around with whichever dataset catches my interest. It's been fun, and I've learned a lot about the mathematics of these techniques.
+- 🌱 Alongside the PhD, I've been building ML/AI engineering skills from the ground up: 
+fine-tuning transformer models for NLP classification, 
+building time series forecasting pipelines (LSTM, Transformer, TFT), and benchmarking classifiers and regression techniques on structured tabular data. The repos below 
+are the output of that.
   
 - 📫 How to reach me: [ashri@sissa.it](mailto:ashri@sissa.it), or, equivalently [bookreaderanant@gmail.com](mailto:bookreaderanant@gmail.com) (who amongst us has not made an email they don't regret).
