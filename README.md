@@ -23,9 +23,10 @@ My research focuses on classifying dual pairs in three-dimensional supersymmetri
 Find my publications [here](https://inspirehep.net/authors/2931640).
 
   
-- 🌱 Alongside the PhD, I've been building ML/AI engineering skills from the ground up: 
-fine-tuning transformer models for NLP classification, 
-building time series forecasting pipelines (LSTM, Transformer, TFT), and benchmarking classifiers and regression techniques on structured tabular data. The repos below 
-are the output of that.
+- 🌱 Alongside the PhD, I've been building ML/AI engineering skills from the ground up. My scientific programming language of choice is **Python** (NumPy, pandas, matplotlib, Seaborn), but I am familiar with **MATLAB** and **Mathematica** as well. 
+
+I have hands-on experience across the ML stack: classical regression and classification tasks via scikit-learn, XGBoost, CatBoost, and imblearn; Deep Learning via TensorFlow/Keras (FFNs, CNNs, LSTMs, time series analysis via multi-head self-attention Transformers and neuralforecast), and PyTorch; NLP via nltk, spaCy, and fine-tuned HF transformers (both decoders and encoders for different tasks); LLM & retrieval tasks via LlamaIndex, vector- and graph- RAG implementations, and domain adapted LLM fine-tuning. 
+
+The repos below are the output of that.
   
 - 📫 How to reach me: [ashri@sissa.it](mailto:ashri@sissa.it), or, equivalently [bookreaderanant@gmail.com](mailto:bookreaderanant@gmail.com) (who amongst us has not made an email they don't regret).
