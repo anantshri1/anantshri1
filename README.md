@@ -34,6 +34,6 @@ My interests span:
 
 I have hands-on experience across the ML stack: classical regression and classification tasks via *scikit-learn, XGBoost, CatBoost*, and *imblearn*; Deep Learning via *TensorFlow/Keras* (FFNs, CNNs, time series analysis via LSTMs, multi-head self-attention Transformers and *neuralforecast*), and *PyTorch*; NLP via *nltk, spaCy*, and fine-tuned *HF transformers* (both decoders and encoders for different tasks); LLM & retrieval tasks via *LlamaIndex*, vector- and graph- RAG implementations, and domain adapted LLM fine-tuning. 
 
-The repos below are the output of that. (I am currently fighting Google Colab as I attempt to learn MLOps workflows)
+The repos below are the output of that. (I am currently fighting Google Colab environment dependencies as I attempt to learn MLOps workflows - Colab is winning at the time of writing)
   
 - 📫 How to reach me: [ashri@sissa.it](mailto:ashri@sissa.it), or, equivalently [bookreaderanant@gmail.com](mailto:bookreaderanant@gmail.com) (who amongst us has not made an email they don't regret).
