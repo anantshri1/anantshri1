@@ -29,7 +29,7 @@ I have hands-on experience across the ML stack:
 * Classical Regression and Classification via *scikit-learn, XGBoost, CatBoost*, and *imblearn*
 * Deep Learning via *TensorFlow/Keras* (FFNs, CNNs), and *PyTorch*
 * Domain-adapted LLM fine-tuning 
-* Retrieval-Augmented Generation (RAG & GraphRAG) mostly via *LlamaIndex* 
+* Retrieval-Augmented Generation (vector- and graph- based) mostly via *LlamaIndex* 
 * NLP and Transformer architectures via *nltk, spaCy, HFTransformers*
 * Time-series forecasting via *LSTMs, multi-head self-attention Transformers* and *neuralforecast*
 * Tracking and logging ML experiments via *Mlflow*
