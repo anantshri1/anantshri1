@@ -35,7 +35,7 @@ I have hands-on experience across the ML stack:
 * Tracking and logging ML experiments via *Mlflow*
 * Experiment-driven model development and evaluation
 
-I have also been experimenting with *reinforcement learning* and *geometric deep learning* (PyTorch Geomtric, my GOAT) on the side (instead of learning SQL, I will get to it I swear.)
+I have also been experimenting with *reinforcement learning* and *geometric deep learning* (PyTorch Geometric, my GOAT) on the side (instead of learning SQL, I will get to it I swear.)
 
 The repos below are the output of that. (I am currently fighting Google Colab environment dependencies as I attempt to learn MLOps workflows - Colab is winning at the time of writing)
   
