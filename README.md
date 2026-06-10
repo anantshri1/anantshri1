@@ -30,9 +30,10 @@ My interests span:
 * Retrieval-Augmented Generation (RAG & GraphRAG)
 * NLP and Transformer architectures
 * Time-series forecasting
+* Tracking and logging ML experiments
 * Experiment-driven model development and evaluation
 
-I have hands-on experience across the ML stack: classical regression and classification tasks via *scikit-learn, XGBoost, CatBoost*, and *imblearn*; Deep Learning via *TensorFlow/Keras* (FFNs, CNNs, time series analysis via LSTMs, multi-head self-attention Transformers and *neuralforecast*), and *PyTorch*; NLP via *nltk, spaCy*, and fine-tuned *HF transformers* (both decoders and encoders for different tasks); LLM & retrieval tasks via *LlamaIndex*, vector- and graph- RAG implementations, and domain adapted LLM fine-tuning. 
+I have hands-on experience across the ML stack: classical regression and classification tasks via *scikit-learn, XGBoost, CatBoost*, and *imblearn*; Deep Learning via *TensorFlow/Keras* (FFNs, CNNs, time series analysis via LSTMs, multi-head self-attention Transformers and *neuralforecast*), and *PyTorch*; NLP via *nltk, spaCy*, and fine-tuned *HF transformers* (both decoders and encoders for different tasks); LLM & retrieval tasks via *LlamaIndex*, vector- and graph- RAG implementations, and domain adapted LLM fine-tuning. I have also been experimenting with *reinforcement learning* and *geometric deep learning* on the side (instead of learning SQL, I will get to it I swear.)
 
 The repos below are the output of that. (I am currently fighting Google Colab environment dependencies as I attempt to learn MLOps workflows - Colab is winning at the time of writing)
   
