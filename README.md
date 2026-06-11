@@ -28,6 +28,7 @@ My research focuses on classifying dual pairs in three-dimensional supersymmetri
 I have hands-on experience across the ML stack:
 * Classical Regression and Classification via *scikit-learn, XGBoost, CatBoost*, and *imblearn*
 * Deep Learning via *TensorFlow/Keras* (FFNs, CNNs), and *PyTorch*
+* Geometric Deep Learning via *PyTorch Geometric*
 * Domain-adapted LLM fine-tuning 
 * Retrieval-Augmented Generation (vector- and graph- based) mostly via *LlamaIndex* 
 * NLP and Transformer architectures via *nltk, spaCy, HFTransformers*
@@ -35,7 +36,7 @@ I have hands-on experience across the ML stack:
 * Tracking and logging ML experiments via *Mlflow*
 * Experiment-driven model development and evaluation
 
-I have also been experimenting with *reinforcement learning* and *geometric deep learning* (PyTorch Geometric, my GOAT) on the side (instead of learning SQL, I will get to it I swear.)
+I have also been experimenting with *reinforcement learning* and *geometric deep learning* on the side (instead of learning SQL, I will get to it, I swear.)
 
 The repos below are the output of that. (I am currently fighting Google Colab environment dependencies as I attempt to learn MLOps workflows - Colab is winning at the time of writing)
   
