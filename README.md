@@ -34,9 +34,10 @@ I have hands-on experience across the ML stack:
 * NLP and Transformer architectures via *nltk, spaCy, HFTransformers*
 * Time-series forecasting via *LSTMs, multi-head self-attention Transformers* and *neuralforecast*
 * Tracking and logging ML experiments via *Mlflow*
+* PPO Reinforcement Learning Implementations
 * Experiment-driven model development and evaluation
 
-I have also been experimenting with *reinforcement learning* and *geometric deep learning* on the side (instead of learning SQL, I will get to it, I swear.)
+📍 Currently: Learning *SQL* and *LangChain* based agentic workflows by making an `nl2sql` pipeline.
 
 The repos below are the output of that. (I am currently fighting Google Colab environment dependencies as I attempt to learn MLOps workflows - Colab is winning at the time of writing)
   
