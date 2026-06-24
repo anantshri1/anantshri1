@@ -23,21 +23,21 @@ My research focuses on classifying dual pairs in three-dimensional supersymmetri
 📄 Find my publications [here](https://inspirehep.net/authors/2931640).
 
   
-- 🌱 Alongside the PhD, I've been building ML/AI engineering skills from the ground up. My scientific programming language of choice is **Python** (*NumPy, pandas, matplotlib, Seaborn*), but I am familiar with **MATLAB** and **Mathematica**. 
+- 🌱 Alongside the PhD, I've been building ML/AI engineering skills from the ground up. My scientific programming language of choice is **Python** (*NumPy, pandas, matplotlib, Seaborn*), but I am familiar with **MATLAB**,**Mathematica**, and **SQL**. 
 
 I have hands-on experience across the ML stack:
 * Classical Regression and Classification via *scikit-learn, XGBoost, CatBoost*, and *imblearn*
 * Deep Learning via *TensorFlow/Keras* (FFNs, CNNs), and *PyTorch*
 * Geometric Deep Learning via *PyTorch Geometric*
-* Domain-adapted LLM fine-tuning 
-* Retrieval-Augmented Generation (vector- and graph- based) mostly via *LlamaIndex* 
-* NLP and Transformer architectures via *nltk, spaCy, HFTransformers*
+* Domain-adapted LLM fine-tuning and Neural Machine Translation
+* Retrieval-Augmented Generation (vector- and graph- based) via *LlamaIndex* and *LangChain*
+* NLP and Transformer architectures via *nltk, spaCy, HF Transformers*
 * Time-series forecasting via *LSTMs, multi-head self-attention Transformers* and *neuralforecast*
 * Tracking and logging ML experiments via *Mlflow*
 * PPO Reinforcement Learning Implementations
 * Experiment-driven model development and evaluation
 
-📍 Currently: Learning *SQL* and *LangChain* based agentic workflows by making an `nl2sql` pipeline.
+📍 Currently: Learning multi-agent workflows via *LangGraph*, and MCP.
 
 The repos below are the output of that. (I am currently fighting Google Colab environment dependencies as I attempt to learn MLOps workflows - Colab is winning at the time of writing)
   
