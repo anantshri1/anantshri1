@@ -30,8 +30,8 @@ I have hands-on experience across the ML stack:
 * Deep Learning via *TensorFlow/Keras* (FFNs, CNNs), and *PyTorch*
 * Geometric Deep Learning via *PyTorch Geometric*
 * Domain-adapted LLM fine-tuning and Neural Machine Translation
-* Agentic workflows (mostly via *LangChain*, *LangGraph*)
-* Vector- and Graph- based Retrieval-Augmented Generation systems
+* Agentic workflows (*LangChain*, *LangGraph*)
+* Vector- and Graph- based Retrieval-Augmented Generation systems (*LlamaIndex*, and a combination of custom schema extraction techniques)
 * NLP and Transformer architectures via *nltk, spaCy, HF Transformers*
 * Time-series forecasting via *LSTMs, multi-head self-attention Transformers* and *neuralforecast*
 * Tracking and logging ML experiments via *Mlflow*
