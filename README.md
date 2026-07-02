@@ -30,14 +30,14 @@ I have hands-on experience across the ML stack:
 * Deep Learning via *TensorFlow/Keras* (FFNs, CNNs), and *PyTorch*
 * Geometric Deep Learning via *PyTorch Geometric*
 * Domain-adapted LLM fine-tuning and Neural Machine Translation
-* Retrieval-Augmented Generation (vector- and graph- based) via *LlamaIndex* and *LangChain*
+* Agentic workflows (mostly via *LangChain*, *LangGraph*)
+* Vector- and Graph- based Retrieval-Augmented Generation systems
 * NLP and Transformer architectures via *nltk, spaCy, HF Transformers*
 * Time-series forecasting via *LSTMs, multi-head self-attention Transformers* and *neuralforecast*
 * Tracking and logging ML experiments via *Mlflow*
 * PPO Reinforcement Learning Implementations
 * Experiment-driven model development and evaluation
 
-📍 Currently: Learning multi-agent workflows via *LangGraph*, and MCP.
 
 The repos below are the output of that. (I am currently fighting Google Colab environment dependencies as I attempt to learn MLOps workflows - Colab is winning at the time of writing)
   
