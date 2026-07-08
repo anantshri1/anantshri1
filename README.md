@@ -14,15 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I am Anant, a theoretical physicist about to finish a PhD in Particle Physics, with a focus on strongly-interacting low-dimensional quantum systems. Welcome to my GitHub page! 
+Hi, I'm **Anant** — a theoretical physicist finishing a PhD in Particle Physics while learning to build reliable, production-ready AI systems. 
+Welcome to my GitHub page! 
 
-- 🔭 I’m currently wrapping up my PhD on *three-dimensional mirror duality*, which is, at its heart, a very interesting (read: weird) phenomenon in three spacetime dimensions that relates multiple field theories. 
+---
+## Research
 
-My research focuses on classifying dual pairs in three-dimensional supersymmetric quantum field theories with minimal supersymmetry. This has been an open problem for three decades — the absence of extended supersymmetry, in conjunction with the presence of topological interactions, removes the usual geometric constraints from string theory that make such classifications tractable. My doctoral work developed a systematic framework for constructing these dual pairs: starting from known dualities as seeds and applying controlled operator deformations to generate new ones. This produced the first comprehensive results in this regime, with findings published in Physical Review D and the Journal of High Energy Physics.
+🔭 I’m currently wrapping up my PhD on *three-dimensional mirror symmetry*, which is, at its heart, a very interesting (read: weird) phenomenon in three spacetime dimensions that relates multiple field theories. 
+
+My research focuses on classifying dual pairs in three-dimensional supersymmetric quantum field theories with minimal supersymmetry. This has been an open problem for three decades — the absence of extended supersymmetry, in conjunction with the presence of topological interactions, removes the usual geometric constraints from string theory that make such classifications tractable. 
+
+My doctoral work developed a systematic framework for constructing these dual pairs: starting from known dualities as seeds and applying controlled operator deformations to generate new ones. This produced the first comprehensive results in this regime, with findings published in *Physical Review D* and the *Journal of High Energy Physics*.
 
 📄 Find my publications [here](https://inspirehep.net/authors/2931640).
 
-  
+---
+## AI & Machine Learning
+
+---
 - 🌱 Alongside the PhD, I've been building ML/AI engineering skills from the ground up. My scientific programming language of choice is **Python** (*NumPy, pandas, matplotlib, Seaborn*), but I am familiar with **MATLAB**,**Mathematica**, and **SQL**. 
 
 I have hands-on experience across the ML stack:
