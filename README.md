@@ -31,7 +31,43 @@ My doctoral work developed a systematic framework for constructing these dual pa
 ---
 ## AI & Machine Learning
 
+Alongside the PhD, I've been building ML/AI engineering skills from the ground up. I have hands-on experience spanning model development, evaluation, deployment, and agentic workflows.
+
+### Languages
+
+Python • SQL • MATLAB • Mathematica • LaTeX
+
+### Machine Learning
+
+- Classical ML: scikit-learn, XGBoost, CatBoost, imbalanced-learn
+- Deep Learning: TensorFlow/Keras, PyTorch
+- Geometric Deep Learning: PyTorch Geometric
+- Time Series: LSTMs, Transformer architectures, NeuralForecast
+- Reinforcement Learning: PPO
+
+### LLMs & NLP
+
+- Hugging Face Ecosystem
+- Domain-adapted LLM fine-tuning
+- Neural Machine Translation
+- spaCy & NLTK
+
+### AI Systems
+
+- Agentic workflows (LangChain, LangGraph, LangSmith, LlamaIndex)
+- Retrieval-Augmented Generation (vector & graph)
+- Hybrid retrieval pipelines
+- Structured information extraction
+
+### Engineering and Deployment
+- FastAPI
+- Docker
+- MLflow
+- Gradio
+- Git
+
 ---
+<!---
 - 🌱 Alongside the PhD, I've been building ML/AI engineering skills from the ground up. My scientific programming language of choice is **Python** (*NumPy, pandas, matplotlib, Seaborn*), but I am familiar with **MATLAB**,**Mathematica**, and **SQL**. 
 
 I have hands-on experience across the ML stack:
@@ -49,5 +85,5 @@ I have hands-on experience across the ML stack:
 
 
 The repos below are the output of that. (I am currently fighting Google Colab environment dependencies as I attempt to learn MLOps workflows - Colab is winning at the time of writing)
-  
-- 📫 How to reach me: [ashri@sissa.it](mailto:ashri@sissa.it), or, equivalently [bookreaderanant@gmail.com](mailto:bookreaderanant@gmail.com) (who amongst us has not made an email they don't regret).
+  --->
+📫 How to reach me: [ashri@sissa.it](mailto:ashri@sissa.it), or, equivalently [bookreaderanant@gmail.com](mailto:bookreaderanant@gmail.com) (who amongst us has not made an email they don't regret).
