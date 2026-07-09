@@ -33,6 +33,7 @@ Alongside the PhD, I have been building end-to-end ML engineering skills: agenti
 ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=python&logoColor=white)
 ![PyG Badge](https://img.shields.io/badge/PyG-3C2179?logo=pyg&logoColor=fff&style=flat)
 ![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![CatBoost](https://img.shields.io/badge/CatBoost-189AB4?style=flat-square&logo=python&logoColor=white)
 
 **LLMs & Agentic AI**
 
