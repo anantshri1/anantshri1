@@ -1,7 +1,5 @@
 # Hi, I'm Anant 👋
 
-Theoretical physicist finishing a PhD at SISSA (Trieste) while building production-ready AI systems from the ground up.
-
 My research focuses on **three-dimensional mirror symmetry** — classifying dual pairs in supersymmetric quantum field theories with minimal supersymmetry, an open problem for three decades. My doctoral work developed a systematic framework for constructing these dual pairs, with findings published in *Physical Review D* and the *Journal of High Energy Physics*. 
 
 📄 Find my publications [here](https://inspirehep.net/authors/2931640)
