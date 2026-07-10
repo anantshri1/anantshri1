@@ -27,11 +27,12 @@ Alongside the PhD, I have been building end-to-end ML engineering skills: agenti
 
 **ML & Deep Learning**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![PyG Badge](https://img.shields.io/badge/PyG-3C2179?logo=pyg&logoColor=fff&style=flat)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=python&logoColor=white)
-![PyG Badge](https://img.shields.io/badge/PyG-3C2179?logo=pyg&logoColor=fff&style=flat)
 ![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![CatBoost](https://img.shields.io/badge/CatBoost-189AB4?style=flat-square&logo=python&logoColor=white)
 
