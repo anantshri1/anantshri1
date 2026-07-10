@@ -13,7 +13,7 @@ Alongside the PhD, I have been building end-to-end ML engineering skills: agenti
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
+![PostgreSQL Badge](https://img.shields.io/badge/MySQL-4169E1?logo=mysql&logoColor=fff&style=flat)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![Wolfram Mathematica Badge](https://img.shields.io/badge/Wolfram%20Mathematica-D10?logo=wolframmathematica&logoColor=fff&style=flat)
@@ -40,7 +40,7 @@ Alongside the PhD, I have been building end-to-end ML engineering skills: agenti
 ![LangChain Badge](https://img.shields.io/badge/LangChain-7FC8FF?logo=langchain&logoColor=fff&style=flat)
 ![LangGraph Badge](https://img.shields.io/badge/LangGraph-7FC8FF?logo=langgraph&logoColor=fff&style=flat)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B2FBE?style=flat-square&logo=python&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 
 **MLOps & Deployment**
 
