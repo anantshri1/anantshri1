@@ -47,7 +47,7 @@ Alongside the PhD, I have been building end-to-end ML engineering skills: agenti
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Langflow Badge](https://img.shields.io/badge/Langflow-000?logo=langflow&logoColor=fff&style=flat)
+![LangChain Badge](https://img.shields.io/badge/LangSmith-7FC8FF?logo=langchain&logoColor=fff&style=flat)
 ![Gradio Badge](https://img.shields.io/badge/Gradio-F97316?logo=gradio&logoColor=fff&style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
