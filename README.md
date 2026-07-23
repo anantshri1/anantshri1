@@ -44,7 +44,7 @@ Alongside the PhD, I have been building end-to-end ML engineering skills: agenti
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B2FBE?style=flat-square&logo=python&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 
-**MLOps, Deployment & Tools**
+**MLOps & Deployment**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -54,7 +54,7 @@ Alongside the PhD, I have been building end-to-end ML engineering skills: agenti
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
-![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)](#)
+![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)
 
 
 ---
