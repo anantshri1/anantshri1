@@ -61,6 +61,33 @@ Alongside the PhD, I have been building end-to-end ML engineering skills: agenti
 
 ## 🚀 Selected Projects
 
+### 🧠 Scientific ML & Foundation Models
+
+[**Spectral Response**](https://github.com/anantshri1/spectral-quantum-response) · JAX FNO study of whether neural operators learn physically meaningful response functions; spectral fidelity improves with supervision.
+
+**Domain-Adaptive LLM Trilogy** · [RAG](https://github.com/anantshri1/RAG_3dQFT) → [GraphRAG](https://github.com/anantshri1/GraphRAG_3dQFT) → [QLoRA](https://github.com/anantshri1/domain_adapted-LLM_fine-tuning) pipeline for theoretical-physics knowledge, culminating in a domain-adapted Qwen2.5-3B.
+
+[**Low-Resource NMT**](https://github.com/anantshri1/low-resource-mt-malayalam) · MarianMT EN→ML fine-tuning, improving BLEU **15.48 → 32.61** on technical-domain data.
+
+### 🤖 AI Systems & Agentic Workflows
+
+[**Agentic AutoML**](https://github.com/anantshri1/agentic-automl-platform) · LangGraph + MCP system for autonomous supervised ML with Docker, MLflow, and LangSmith.
+
+[**NL-to-SQL Agent**](https://github.com/anantshri1/nl2sql-agentic-pipeline) · Retrieval + execution-guided self-correction; **54.5% BIRD Mini-Dev accuracy** with 55% fewer tokens. [🤗 demo](https://huggingface.co/spaces/anantshri1/nl2sql-agentic-pipeline)
+
+[**Multi-Agent Symbolic Reasoning**](https://github.com/anantshri1/group-theoretic-agentic-pipeline) · Solver → verifier → critic architecture with SymPy verification via MCP. [🤗 demo](https://huggingface.co/spaces/anantshri1/group-theoretic-agentic-pipeline)
+
+### 🕸️ Geometric & Graph Learning
+
+[**MolPredict**](https://github.com/anantshri1/homo-lumo-gat) · GATv2 molecular property prediction deployed as a FastAPI + MCP inference service. [API](https://homo-lumo-gat.fly.dev/docs)
+
+[**Orbit Wars**](https://github.com/anantshri1/gdl_orbitwars) · GATv2 + PPO with action masking, differentiable graph construction and curriculum learning.
+
+### 📈 Applied ML
+
+**Time Series Forecasting** · LSTM, Transformer, AutoTFT and XGBoost across [BTC/USDT](https://github.com/anantshri1/timeseries_forecasting_btc_prediction) and [Indian electricity-demand forecasting](https://github.com/anantshri1/timeseries_forecasting_energy-demands), including climate stress tests.
+
+<!--
 | Project | What it does | Stack |
 |---|---|---|
 |[**Neural Operators for PDEs**](https://github.com/anantshri1/fno-data-efficiency)|Benchmarking neural operator architectures to study how structural inductive bias influences sample efficiency.|`JAX` (`Equinox`), `Mlflow`|
@@ -72,6 +99,7 @@ Alongside the PhD, I have been building end-to-end ML engineering skills: agenti
 | **Domain-Adaptive LLM Trilogy** | [RAG](https://github.com/anantshri1/RAG_3dQFT) → [GraphRAG](https://github.com/anantshri1/GraphRAG_3dQFT) → [QLoRA](https://github.com/anantshri1/domain_adapted-LLM_fine-tuning) fine-tuning pipeline over my physics PhD thesis; ontology-driven knowledge graph, 2× retrieval benchmark gain, domain-adapted Qwen2.5-3B ([🤗 adapter](https://huggingface.co/anantshri1/qwen2.5-3b-mirror-symmetry)) on free-tier T4 | QLoRA (`Unsloth`), `LlamaIndex`, GraphRAG (`NetworkX`, `Pydantic`) |
 | **Deep Learning for Time Series Forecasting** | LSTM vs Transformer vs AutoTFT on [BTC/USDT](https://github.com/anantshri1/timeseries_forecasting_btc_prediction) (71k hrs); XGBoost [demand forecasting](https://github.com/anantshri1/timeseries_forecasting_energy-demands) on Grid India data with climate scenario simulation (+2°C/+4°C stress tests) and MLflow tracking | `PyTorch`, `TensorFlow`, `NeuralForecast`, `XGBoost`, `MLflow` |
 | [**Low-Resource NMT: EN→ML**](https://github.com/anantshri1/low-resource-mt-malayalam) | MarianMT fine-tuned on BPCC + NPTEL Shiksha corpus; BLEU 15.48 → 32.61 (2× gain) on a low-resource pair where general-purpose models fail on technical vocabulary ([🤗 weights](https://huggingface.co/anantshri1/marian-en-ml-bpcc), [🤗 domain-adapted weights](https://huggingface.co/anantshri1/marian-en-ml-shiksha)) | MarianMT, Hugging Face |
+-->
 
 ---
 
