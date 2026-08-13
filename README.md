@@ -13,7 +13,7 @@ Alongside the PhD, I have been building end-to-end ML engineering skills: agenti
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL Badge](https://img.shields.io/badge/MySQL-4169E1?logo=mysql&logoColor=fff&style=flat)
+![PostgreSQL Badge](https://img.shields.io/badge/SQL-4169E1?logo=mysql&logoColor=fff&style=flat)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![Wolfram Mathematica Badge](https://img.shields.io/badge/Wolfram%20Mathematica-D10?logo=wolframmathematica&logoColor=fff&style=flat)
@@ -28,14 +28,14 @@ Alongside the PhD, I have been building end-to-end ML engineering skills: agenti
 **ML & Deep Learning**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![PyG Badge](https://img.shields.io/badge/PyG-3C2179?logo=pyg&logoColor=fff&style=flat)
 [![JAX](https://custom-icon-badges.demolab.com/badge/JAX-222827?logo=jax&logoColor=ffffff)](#)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=python&logoColor=white)
+<!--![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=python&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![CatBoost](https://img.shields.io/badge/CatBoost-189AB4?style=flat-square&logo=python&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-189AB4?style=flat-square&logo=python&logoColor=white)-->
+<!--![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras)-->
 
 **LLMs & Agentic AI**
 
@@ -52,9 +52,9 @@ Alongside the PhD, I have been building end-to-end ML engineering skills: agenti
 ![LangChain Badge](https://img.shields.io/badge/LangSmith-7FC8FF?logo=langchain&logoColor=fff&style=flat)
 ![Gradio Badge](https://img.shields.io/badge/Gradio-F97316?logo=gradio&logoColor=fff&style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
+<!--[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
-![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)
+![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)-->
 
 
 ---
