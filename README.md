@@ -63,7 +63,7 @@ Alongside the PhD, I have been building end-to-end ML engineering skills: agenti
 
 ### 🧠 Scientific ML & Foundation Models
 
-[**Spectral Response**](https://github.com/anantshri1/spectral-quantum-response) · JAX FNO study of whether neural operators learn physically meaningful response functions; spectral fidelity improves with supervision.
+[**Spectral Response Fidelity**](https://github.com/anantshri1/spectral-quantum-response) · JAX FNO study of whether neural operators learn physically meaningful response functions; spectral fidelity improves with supervision of Jacobians.
 
 **Domain-Adaptive LLM Trilogy** · [RAG](https://github.com/anantshri1/RAG_3dQFT) → [GraphRAG](https://github.com/anantshri1/GraphRAG_3dQFT) → [QLoRA](https://github.com/anantshri1/domain_adapted-LLM_fine-tuning) pipeline for theoretical-physics knowledge, culminating in a domain-adapted Qwen2.5-3B.
 
