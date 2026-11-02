@@ -63,11 +63,21 @@ Alongside the PhD, I have been building end-to-end ML engineering skills: agenti
 
 ### 🧠 Scientific ML & Foundation Models
 
-[**Spectral Response Fidelity**](https://github.com/anantshri1/spectral-quantum-response) · JAX FNO study of whether neural operators learn physically meaningful response functions; spectral fidelity improves with supervision of Jacobians.
+[**Spectral Response Fidelity**](https://github.com/anantshri1/ml4ps-response-fidelity) · JAX FNO study of whether neural operators learn physically meaningful response functions; spectral fidelity improves with supervision of Jacobians.
 
 **Domain-Adaptive LLM Trilogy** · [RAG](https://github.com/anantshri1/RAG_3dQFT) → [GraphRAG](https://github.com/anantshri1/GraphRAG_3dQFT) → [QLoRA](https://github.com/anantshri1/domain_adapted-LLM_fine-tuning) pipeline for theoretical-physics knowledge, culminating in a domain-adapted Qwen2.5-3B.
 
 [**Low-Resource NMT**](https://github.com/anantshri1/low-resource-mt-malayalam) · MarianMT EN→ML fine-tuning, improving BLEU **15.48 → 32.61** on technical-domain data.
+
+[**Red-teaming LLMs on multilingual prompt injections**](https://github.com/anantshri1/lexsi-refusal) · Investigating if multilingual refusal a shared internal computation and whether that structure can be used to repair safety in languages the intervention never saw. (*In progress*)
+
+### 🕸️ Geometric & Graph Learning
+
+[**MolPredict**](https://github.com/anantshri1/homo-lumo-gat) · GATv2 molecular property prediction deployed as a FastAPI + MCP inference service. [API](https://homo-lumo-gat.fly.dev/docs)
+
+[**Orbit Wars**](https://github.com/anantshri1/gdl_orbitwars) · GATv2 + PPO with action masking, differentiable graph construction, and curriculum learning.
+
+[**Machine Learning Assisted Quantum Error Correction**](https://github.com/anantshri1/ml-qec) · Streaming GNN decoder for the rotated surface code with circuit-level noise. (*In progress*)
 
 ### 🤖 AI Systems & Agentic Workflows
 
@@ -76,12 +86,6 @@ Alongside the PhD, I have been building end-to-end ML engineering skills: agenti
 [**NL-to-SQL Agent**](https://github.com/anantshri1/nl2sql-agentic-pipeline) · Retrieval + execution-guided self-correction; **54.5% BIRD Mini-Dev accuracy** with 55% fewer tokens. [🤗 demo](https://huggingface.co/spaces/anantshri1/nl2sql-agentic-pipeline)
 
 [**Multi-Agent Symbolic Reasoning**](https://github.com/anantshri1/group-theoretic-agentic-pipeline) · Solver → verifier → critic architecture with SymPy verification via MCP. [🤗 demo](https://huggingface.co/spaces/anantshri1/group-theoretic-agentic-pipeline)
-
-### 🕸️ Geometric & Graph Learning
-
-[**MolPredict**](https://github.com/anantshri1/homo-lumo-gat) · GATv2 molecular property prediction deployed as a FastAPI + MCP inference service. [API](https://homo-lumo-gat.fly.dev/docs)
-
-[**Orbit Wars**](https://github.com/anantshri1/gdl_orbitwars) · GATv2 + PPO with action masking, differentiable graph construction and curriculum learning.
 
 ### 📈 Applied ML
 
@@ -106,6 +110,7 @@ Alongside the PhD, I have been building end-to-end ML engineering skills: agenti
 ## 📬 Contact
 
 [![Email](https://img.shields.io/badge/ashri@sissa.it-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashri@sissa.it)
+[![Email](https://img.shields.io/badge/ashri@sissa.it-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bookreaderanant@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anant-shri-518b36130/)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/anantshri1)
 [![INSPIRE](https://img.shields.io/badge/Publications-INSPIRE-blue?style=flat-square)](https://inspirehep.net/authors/2931640)
