@@ -144,7 +144,7 @@ Exploring how models can be adapted to specialised domains, evaluated under chal
 ## 📬 Contact
 
 [![Email](https://img.shields.io/badge/ashri@sissa.it-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashri@sissa.it)
-[![Email](https://img.shields.io/badge/ashri@sissa.it-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bookreaderanant@gmail.com)
+[![Email](https://img.shields.io/badge/bookreaderanant@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bookreaderanant@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anant-shri-518b36130/)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/anantshri1)
 [![INSPIRE](https://img.shields.io/badge/Publications-INSPIRE-blue?style=flat-square)](https://inspirehep.net/authors/2931640)
