@@ -1,6 +1,6 @@
 # Hi, I'm Anant 👋
 
-My research focuses on **three-dimensional mirror symmetry** — classifying dual pairs in supersymmetric quantum field theories with minimal supersymmetry, an open problem for three decades. My doctoral work developed a systematic framework for constructing these dual pairs, with findings published in *Physical Review D* and the *Journal of High Energy Physics*. 
+My scientific research focuses on **three-dimensional mirror symmetry** — classifying dual pairs in supersymmetric quantum field theories with minimal supersymmetry, an open problem for three decades. My doctoral work developed a systematic framework for constructing these dual pairs, with findings published in *Physical Review D* and the *Journal of High Energy Physics*. 
 
 📄 Find my publications [here](https://inspirehep.net/authors/2931640)
 
@@ -69,7 +69,7 @@ Alongside the PhD, I have been building end-to-end ML engineering skills: agenti
 
 [**Low-Resource NMT**](https://github.com/anantshri1/low-resource-mt-malayalam) · MarianMT EN→ML fine-tuning, improving BLEU **15.48 → 32.61** on technical-domain data.
 
-[**Red-teaming LLMs on multilingual prompt injections**](https://github.com/anantshri1/lexsi-refusal) · Investigating if multilingual refusal a shared internal computation and whether that structure can be used to repair safety in languages the intervention never saw. (*In progress*)
+[**Red-teaming LLMs on multilingual prompt injections**](https://github.com/anantshri1/lexsi-refusal) · Investigating if multilingual refusal is a shared internal computation and whether that structure can be used to repair safety in languages the intervention never saw. (*In progress*)
 
 ### 🕸️ Geometric & Graph Learning
 
