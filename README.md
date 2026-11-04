@@ -1,10 +1,16 @@
 # Hi, I'm Anant 👋
 
-My scientific research focuses on **three-dimensional mirror symmetry** — classifying dual pairs in supersymmetric quantum field theories with minimal supersymmetry, an open problem for three decades. My doctoral work developed a systematic framework for constructing these dual pairs, with findings published in *Physical Review D* and the *Journal of High Energy Physics*. 
+**Theoretical Physicist · Scientific ML Researcher · AI Systems Builder**
+
+I recently completed my PhD in theoretical physics at SISSA, where my research focused on three-dimensional mirror symmetry and dualities in supersymmetric quantum field theories. My doctoral work developed systematic methods for constructing dual pairs in a class of theories that had remained difficult to classify for decades, with findings published in *Physical Review D* and the *Journal of High Energy Physics*. 
 
 📄 Find my publications [here](https://inspirehep.net/authors/2931640)
 
-Alongside the PhD, I have been building end-to-end ML engineering skills: agentic workflows, retrieval systems, geometric deep learning, time series forecasting, and domain-adaptive LLM training. The repositories below are the output of that work.
+My interests now lie at the intersection of scientific machine learning, AI for Science, and AI systems engineering. I work on learning scientific dynamics, geometric deep learning, quantum error correction, and machine learning methods for scientific discovery.
+
+I am interested not just in whether a model makes accurate predictions, but in whether it learns the underlying structure of a problem, generalises beyond its training distribution, and produces reliable results.
+
+Alongside research, I build end-to-end AI systems: from model development and evaluation to APIs, containerised services, agentic workflows, and deployment. I enjoy working across the full stack, particularly when the application has a genuinely interesting scientific or technical problem behind it.
 
 ---
 
@@ -61,33 +67,61 @@ Alongside the PhD, I have been building end-to-end ML engineering skills: agenti
 
 ## 🚀 Selected Projects
 
-### 🧠 Scientific ML & Foundation Models
+### 🔬 Scientific Machine Learning
+Projects exploring how machine learning models represent, approximate, and generalise scientific systems.
 
-[**Spectral Response Fidelity**](https://github.com/anantshri1/ml4ps-response-fidelity) · JAX FNO study of whether neural operators learn physically meaningful response functions; spectral fidelity improves with supervision of Jacobians.
+[**Spectral Response Fidelity**](https://github.com/anantshri1/ml4ps-response-fidelity) · A JAX/Equinox study investigating whether Fourier Neural Operators learn physically meaningful response functions, rather than merely accurate forward predictions.  Explores Jacobian-supervised training, spectral response fidelity, differentiable quantum dynamics, and out-of-distribution generalisation.
 
-**Domain-Adaptive LLM Trilogy** · [RAG](https://github.com/anantshri1/RAG_3dQFT) → [GraphRAG](https://github.com/anantshri1/GraphRAG_3dQFT) → [QLoRA](https://github.com/anantshri1/domain_adapted-LLM_fine-tuning) pipeline for theoretical-physics knowledge, culminating in a domain-adapted Qwen2.5-3B.
+[**Neural Operators for PDEs**](https://github.com/anantshri1/fno-data-efficiency) · An empirical study of how architectural inductive biases influence the data efficiency of neural operators.
+* FNO reaches 10% test relative L2 error with approximately 4.1× less training data than a matched-budget U-Net.
+* 116.3× faster inference than the finite-difference solver in the documented CPU benchmark.
+* Includes multi-seed evaluation, bootstrap confidence intervals, resolution-transfer analysis, and spectral error decomposition.
 
-[**Low-Resource NMT**](https://github.com/anantshri1/low-resource-mt-malayalam) · MarianMT EN→ML fine-tuning, improving BLEU **15.48 → 32.61** on technical-domain data.
+[**Machine Learning Assisted Quantum Error Correction**](https://github.com/anantshri1/ml-qec) · A streaming GNN decoder for the rotated surface code under circuit-level SI1000 noise, exploring learned decoding strategies and correlated error information. Also extending the framework to color codes and investigating generalisation across code families. *In progress*
 
-[**Red-teaming LLMs on multilingual prompt injections**](https://github.com/anantshri1/lexsi-refusal) · Investigating if multilingual refusal is a shared internal computation and whether that structure can be used to repair safety in languages the intervention never saw. (*In progress*)
+### 🧪 AI for Scientific Discovery
+Building machine learning models and computational systems that connect scientific problems with practical, usable tools.
 
-### 🕸️ Geometric & Graph Learning
+[**MolPredict**](https://github.com/anantshri1/homo-lumo-gat) · A molecular property prediction system using GATv2 on the QM9 dataset to predict HOMO-LUMO gaps.
+* Test MAE: 0.1712 eV.
+* FastAPI inference service with single and batch prediction.
+* Dockerised CUDA-enabled deployment and an independent MCP server.
+* MC-dropout-based uncertainty estimation.
+[Live API documentation](https://homo-lumo-gat.fly.dev/docs)
 
-[**MolPredict**](https://github.com/anantshri1/homo-lumo-gat) · GATv2 molecular property prediction deployed as a FastAPI + MCP inference service. [API](https://homo-lumo-gat.fly.dev/docs)
+[**Multi-Agent Symbolic Reasoning**](https://github.com/anantshri1/group-theoretic-agentic-pipeline) · An agentic system for mathematical problem-solving using a solver → verifier → critic architecture. Combines LangGraph orchestration with exact symbolic verification through SymPy, exposed as an independent MCP service. [🤗 demo](https://huggingface.co/spaces/anantshri1/group-theoretic-agentic-pipeline)
 
-[**Orbit Wars**](https://github.com/anantshri1/gdl_orbitwars) · GATv2 + PPO with action masking, differentiable graph construction, and curriculum learning.
+### ⚙️ AI Systems & Engineering
+Building complete AI applications, with an emphasis on modular architecture, evaluation, observability, and deployment.
 
-[**Machine Learning Assisted Quantum Error Correction**](https://github.com/anantshri1/ml-qec) · Streaming GNN decoder for the rotated surface code with circuit-level noise. (*In progress*)
+[**Agentic AutoML**](https://github.com/anantshri1/agentic-automl-platform) · An end-to-end agentic system for autonomous supervised machine learning.
+* LangGraph orchestration and modular MCP tool server.
+* FastAPI backend and frontend integration.
+* Five-container Docker architecture.
+* MLflow experiment tracking and LangSmith observability.
 
-### 🤖 AI Systems & Agentic Workflows
+[**NL-to-SQL Agent**](https://github.com/anantshri1/nl2sql-agentic-pipeline) · An agentic natural-language-to-SQL pipeline using hybrid retrieval and execution-guided self-correction.
+* 54.5% execution accuracy on BIRD Mini-Dev (36/66).
+* Approximately 55% fewer schema prompt tokens compared with full-schema prompting.
+* Retrieval ablations, failure-mode analysis, and execution-guided correction.
+[🤗 demo](https://huggingface.co/spaces/anantshri1/nl2sql-agentic-pipeline)
 
-[**Agentic AutoML**](https://github.com/anantshri1/agentic-automl-platform) · LangGraph + MCP system for autonomous supervised ML with Docker, MLflow, and LangSmith.
+### 🧠 Language Models: Adaptation, Evaluation & Safety
+Exploring how models can be adapted to specialised domains, evaluated under challenging conditions, and made more reliable.
 
-[**NL-to-SQL Agent**](https://github.com/anantshri1/nl2sql-agentic-pipeline) · Retrieval + execution-guided self-correction; **54.5% BIRD Mini-Dev accuracy** with 55% fewer tokens. [🤗 demo](https://huggingface.co/spaces/anantshri1/nl2sql-agentic-pipeline)
+**Domain-Adaptive LLM Trilogy** · A three-stage exploration of language models for theoretical physics:
+* [RAG](https://github.com/anantshri1/RAG_3dQFT) - retrieval over specialised physics knowledge.
+* [GraphRAG](https://github.com/anantshri1/GraphRAG_3dQFT) - structured knowledge representations and graph-based retrieval.
+* [QLoRA](https://github.com/anantshri1/domain_adapted-LLM_fine-tuning) - domain adaptation of Qwen2.5-3B using a physics-specific instruction dataset.
 
-[**Multi-Agent Symbolic Reasoning**](https://github.com/anantshri1/group-theoretic-agentic-pipeline) · Solver → verifier → critic architecture with SymPy verification via MCP. [🤗 demo](https://huggingface.co/spaces/anantshri1/group-theoretic-agentic-pipeline)
+[**Low-Resource NMT**](https://github.com/anantshri1/low-resource-mt-malayalam) · Fine-tuning MarianMT for English-to-Malayalam translation using BPCC and NPTEL Shiksha data, with an emphasis on technical vocabulary and domain adaptation.
 
-### 📈 Applied ML
+[**Multilingual LLM Safety & Red-Teaming**](https://github.com/anantshri1/lexsi-refusal) · Investigating multilingual prompt injection and refusal robustness, with a particular interest in whether refusal behaviour relies on shared internal computations across languages and whether interventions can generalise to languages unseen during training. *Hackathon - in progress*
+
+
+### 📈 Additional Work
+
+[**Reinforcement Learning for multi-player strategy games**](https://github.com/anantshri1/gdl_orbitwars) · Graph neural networks and reinforcement learning, exploring GATv2 policies, action masking, differentiable graph construction, and curriculum learning.
 
 **Time Series Forecasting** · LSTM, Transformer, AutoTFT and XGBoost across [BTC/USDT](https://github.com/anantshri1/timeseries_forecasting_btc_prediction) and [Indian electricity-demand forecasting](https://github.com/anantshri1/timeseries_forecasting_energy-demands), including climate stress tests.
 
